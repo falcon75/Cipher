@@ -1,4 +1,2 @@
-# Cipher
-Project containing ciphers, eg Caesar, with GUI using python tkinter
-This set of files can be used to test ciphers and create graphical user interfaces
-
+# Cipher Algorithms
+Project containing ciphers, including Caesar and Vigeneres, with GUI using python tkinter
